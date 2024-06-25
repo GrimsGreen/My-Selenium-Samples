@@ -16,5 +16,8 @@ Simple python selenium/seleniumbase code to do awesome jobs!
 - learn how to select
 - simple cheatsheet
 
+# TODOs
+adding the codes(the codes are already completed but need a little time to adding them.)
+IDK but if this repo achieves 10 stars I start to push the codes!!!
 
 # Acknowledgments
